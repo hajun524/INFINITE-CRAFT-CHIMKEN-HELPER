@@ -1,7 +1,7 @@
 # INFINITE-CRAFT-CHIMKEN-HELPER
 Use this on TamperMonkey. CHIMKIN CRAFT is an infinite craft helper.
 
-#CODE
+# CODE
 // ==UserScript==
 // @name			Chimken Craft
 // @namespace		mikarific.com
